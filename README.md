@@ -11,21 +11,21 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm a passionate **Software Developer** with a knack for creating innovative solutions.
-- 🎓 Currently an undergraduate majoring in Computer Science & Engineering.
-- 🏢 **Campus Ambassador** at **Pw Skills**, where I guide and mentor fellow students.
-- 💻 A dedicated **Problem Solver** on `Leetcode`, always ready to tackle new challenges.
-- ✍🏻 I love using Software as a solution for every Problem.
-- 🎯 Continuously **Learning** and expanding my knowledge across various domains.
-- 🌐 Contribute to **Open Source** projects to give back to the community.
-- 🧑‍🏫 Help more developers grow by sharing knowledge and experiences.
+- 👨‍💻 ɪ'ᴍ ᴀ ᴘᴀᴤᴤɪᴏɴᴀᴛᴇ **ᴤᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ** ᴡɪᴛʜ ᴀ ᴋɴᴀᴄᴋ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴤᴏʟᴜᴛɪᴏɴᴤ.
+- 🎓 ᴄᴜʀʀᴇɴᴛʟʏ ᴀɴ ᴜɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ ᴍᴀᴊᴏʀɪɴɢ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ᴤᴄɪᴇɴᴄᴇ & ᴇɴɢɪɴᴇᴇʀɪɴɢ.
+- 🏢 **ᴄᴀᴍᴘᴜᴤ ᴀᴍʙᴀᴤᴤᴀᴅᴏʀ** ᴀᴛ **ᴘᴡ ᴤᴋɪʟʟᴤ**, ᴡʜᴇʀᴇ ɪ ɢᴜɪᴅᴇ ᴀɴᴅ ᴍᴇɴᴛᴏʀ ғᴇʟʟᴏᴡ ᴤᴛᴜᴅᴇɴᴛᴤ.
+- 💻 ᴀ ᴅᴇᴅɪᴄᴀᴛᴇᴅ **ᴘʀᴏʙʟᴇᴍ ᴤᴏʟᴠᴇʀ** ᴏɴ ʟᴇᴇᴛᴄᴏᴅᴇ, ᴀʟᴡᴀʏᴤ ʀᴇᴀᴅʏ ᴛᴏ ᴛᴀᴄᴋʟᴇ ɴᴇᴡ ᴄʜᴀʟʟᴇɴɢᴇᴤ.
+- ✍🏻 ɪ ʟᴏᴠᴇ ᴜᴤɪɴɢ ᴤᴏғᴛᴡᴀʀᴇ ᴀᴤ ᴀ ᴤᴏʟᴜᴛɪᴏɴ ғᴏʀ ᴇᴠᴇʀʏ ᴘʀᴏʙʟᴇᴍ.
+- 🎯 ᴄᴏɴᴛɪɴᴜᴏᴜᴤʟʏ **ʟᴇᴀʀɴɪɴɢ** ᴀɴᴅ ᴇᴥᴘᴀɴᴅɪɴɢ ᴍʏ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴀᴄʀᴏᴤᴤ ᴠᴀʀɪᴏᴜᴤ ᴅᴏᴍᴀɪɴᴤ.
+- 🌐 ᴄᴏɴᴛʀɪʙᴜᴛᴇ ᴛᴏ **ᴏᴘᴇɴ ᴤᴏᴜʀᴄᴇ** ᴘʀᴏᴊᴇᴄᴛᴤ ᴛᴏ ɢɪᴠᴇ ʙᴀᴄᴋ ᴛᴏ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ.
+- 🧑‍🏫 ʜᴇʟᴘ ᴍᴏʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀᴤ ɢʀᴏᴡ ʙʏ ᴤʜᴀʀɪɴɢ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴀɴᴅ ᴇᴥᴘᴇʀɪᴇɴᴄᴇᴤ.
   
 <br>
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
-- 🖇 You can visit my [`Linktree`](https://linktr.ee/ConnectDebasis) for all my links in one place.
-- 👨‍💻 Join my [`Discord Server`](https://discord.com/invite/jGCakWdQJj) to connect with like-minded developers.
-- 🌐 Check out my [`Website`](https://debasis.site).
+- 🖇 ʏᴏᴜ ᴄᴀɴ ᴠɪᴤɪᴛ ᴍʏ [`ʟɪɴᴋᴛʀᴇᴇ`](https://linktr.ee/ConnectDebasis) ғᴏʀ ᴀʟʟ ᴍʏ ʟɪɴᴋᴤ ɪɴ ᴏɴᴇ ᴘʟᴀᴄᴇ.
+- 👨‍💻 ᴊᴏɪɴ ᴍʏ [`ᴅɪᴤᴄᴏʀᴅ ᴤᴇʀᴠᴇʀ`](https://discord.com/invite/jGCakWdQJj) ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ʟɪᴋᴇ-ᴍɪɴᴅᴇᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀᴤ.
+- 🌐 ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴍʏ [`ᴡᴇʙᴤɪᴛᴇ`](https://debasis.site).
 
 <br>
 
