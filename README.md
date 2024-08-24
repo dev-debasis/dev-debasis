@@ -134,45 +134,44 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <!-- Dark Mode -->
-<a href="https://github.com/dev-debasis#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dev-debasis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
+<a href="https://github.com/dampdigits#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=radical&hide_border=true#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
-<a href="https://github.com/dev-debasis#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dev-debasis&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
+<a href="https://github.com/dampdigits#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dampdigits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues,contribs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,prs,prs_merged&theme=shadow_green#gh-light-mode-only" />
 </a>
 <!-- Most used languages -->
 <!-- Dark Mode -->
-<a href="https://github.com/dev-debasis#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-debasis&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
+<a href="https://github.com/dampdigits#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=radical&hide_border=true&card_width=404#gh-dark-mode-only" />
 </a>
 <!-- Light Mode -->
-<a href="https://github.com/dev-debasis#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-debasis&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
+<a href="https://github.com/dampdigits#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dampdigits&layout=compact&langs_count=20&size_weight=0.4&theme=shadow_green&card_width=404#gh-light-mode-only" />
 </a>
 
 <!-- Github streak -->
 <picture>
   <!-- Dark Mode -->
   <source
-    srcset="https://streak-stats.demolab.com?user=dev-debasis&theme=radical&card_width=804&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=dampdigits&theme=radical&card_width=804&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <!-- Light Mode -->
   <source
-    srcset="https://streak-stats.demolab.com?user=dev-debasis&theme=shadow_green&card_width=804"
+    srcset="https://streak-stats.demolab.com?user=dampdigits&theme=shadow_green&card_width=804"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="GitHub Streak" src="https://github.com/dev-debasis" />
+  <img alt="GitHub Streak" src="https://github.com/dampdigits" />
 </picture>
 
 <!-- Activity Graph -->
 <!-- Dark Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-debasis&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/dev-debasis#gh-dark-mode-only)
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/dampdigits#gh-dark-mode-only)
 <!-- Light Mode -->
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-debasis&theme=github-light#gh-light-mode-only)](https://github.com/dev-debasis#gh-light-mode-only)
+[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dampdigits&theme=github-light#gh-light-mode-only)](https://github.com/dampdigits#gh-light-mode-only)
 
-	
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
