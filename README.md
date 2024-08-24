@@ -172,26 +172,6 @@
 <!-- Light Mode -->
 [![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-debasis&theme=github-light#gh-light-mode-only)](https://github.com/dev-debasis#gh-light-mode-only)
 
-<!--Gists-->
-## Github Gists 📜
-<!-- Gist-1 -->
-<!-- Dark Mode -->
-<a href="https://gist.github.com/dev-debasis/a1fbcf15c46dbe639f69930038ca43d3#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=radical&hide_border=true#gh-dark-mode-only" />
-</a>
-<!-- Light Mode -->
-<a href="https://gist.github.com/dev-debasis/a1fbcf15c46dbe639f69930038ca43d3#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=a1fbcf15c46dbe639f69930038ca43d3&theme=shadow_green#gh-light-mode-only" />
-</a>
-<!-- Gist-2 -->
-<!-- Dark Mode -->
-<a href="https://gist.github.com/dev-debasis/abefc4c97287c6d91a3ea113de03d739#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=radical&hide_border=true" />
-</a>
-<!-- Light Mode -->
-<a href="https://gist.github.com/dev-debasis/abefc4c97287c6d91a3ea113de03d739#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=abefc4c97287c6d91a3ea113de03d739&theme=shadow_green" />
-</a>
 	
 ## 🐍 A Snake Eating My Contributions Graph
 
