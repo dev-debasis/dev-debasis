@@ -157,10 +157,6 @@
 
 <br> 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> LeetCode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/coder__champ)
-
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <!-- Dark Mode -->
@@ -201,13 +197,3 @@
 [![Debasis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-debasis&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/dev-debasis#gh-dark-mode-only)
 <!-- Light Mode -->
 [![Debasis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-debasis&theme=github-light#gh-light-mode-only)](https://github.com/dev-debasis#gh-light-mode-only)
-
-## 🐍 A Snake Eating My Contributions Graph
-
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
